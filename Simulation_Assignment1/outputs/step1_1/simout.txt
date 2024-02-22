@@ -1,0 +1,15 @@
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Jan 14 2024 23:19:27
+gem5 executing on codespaces-69d0cb, pid 16435
+command line: gem5 -re --outdir=step1_1 run.py HW1TimingSimpleCPU HW1DDR3_1600_8x8 1GHz
+
+Global frequency set at 1000000000000 ticks per second
+Initializing the matrices...Done.
+Beginning multiply...
+Done.
+Time 355.375 ms
+Finished simulation.
