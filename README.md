@@ -1,4 +1,4 @@
-# Project Description
+# Description
 These assignments in computer architecture aim to utilize gem5 to simulate and analyze the performance of computer systems under various configurations.
 
 
