@@ -1,0 +1,14 @@
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Jan 25 2024 06:49:53
+gem5 executing on codespaces-f843ff, pid 68413
+command line: gem5 -re --outdir=outputs/step2_3 sim_Minor_DAXPY.py 8 3 1
+
+int_op: 3, int_issue: 8
+int_op: 3, int_issue: 8
+fp_op: 1, fp_issue: 8
+Global frequency set at 1000000000000 ticks per second
+Finished simulation.

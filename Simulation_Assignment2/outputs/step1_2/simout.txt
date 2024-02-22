@@ -1,0 +1,13 @@
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Jan 25 2024 06:46:19
+gem5 executing on codespaces-f843ff, pid 67216
+command line: gem5 -re --outdir=outputs/step1_2 sim_TimingSimple_Hello.py
+
+info: Using default config
+Global frequency set at 1000000000000 ticks per second
+Hello world!
+Finished simulation.
